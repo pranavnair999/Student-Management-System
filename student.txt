@@ -7,3 +7,11 @@ Course: AI & DS
 Roll No: 2
 Name: Priya
 Course: Computer Engineering
+
+Roll No: 3
+Name: Amit
+Course: Information Technology
+
+Roll No: 4
+Name: Sneha
+Course: AI & DS
